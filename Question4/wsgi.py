@@ -12,3 +12,4 @@ os.environ.setdefault("DJANGO_SETTINGS_MODULE", "Question4.settings")
 
 from django.core.wsgi import get_wsgi_application
 application = get_wsgi_application()
+from ws_client import scheduler

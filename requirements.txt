@@ -1,3 +1,4 @@
 django
 suds
 geoip2
+easy-scheduler
